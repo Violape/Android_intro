@@ -8,3 +8,6 @@ Read more at https://developer.android.com/training/constraint-layout
 
 ![Design](linear-layout.gif)
 
+The edited design is shown in the image below:
+
+![Design](Snapshot.png)
